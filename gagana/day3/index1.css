@@ -1,0 +1,12 @@
+.box {
+    height: 200px;
+    width: 500px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: green;
+    border-left: 4px;
+    border-right: 1em;
+    border-top: 40px;
+    border-bottom: 2em;
+    padding: 1em;
+}
