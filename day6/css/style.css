@@ -1,0 +1,11 @@
+body {
+    background:#333;
+    color:#fff;
+    text-align:center;   
+}
+.btn-like {
+    background:red;
+    color:white;
+    font-size:1,5rem;
+
+}
